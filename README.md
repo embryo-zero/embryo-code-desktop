@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Code Desktop
+
+**Embryo Code Desktop** is Embryo-Zero's fork of [vscodium](https://github.com/VSCodium/vscodium), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 <div id="vscodium-logo" align="center">
    <br />
    <img src="./icons/stable/codium_cnl.svg" alt="VSCodium Logo" width="200"/>
